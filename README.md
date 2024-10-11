@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j4nlksh - Lakshya.
 - 👀 I’m interested in Blockchain/Web3 & AI.
-- 🌱 I’m currently learning Blockchain - Ethereum/Solana - Learning Smart Contracts & DSA as well in CPP.
+- 🌱 I’m currently learning Blockchain - Ethereum/Solana - Learning Smart Contracts & DSA as well in Cpp & Javascript.
 - 💞️ I’m looking to collaborate with Fellow Dev's Who Have some experience in this Field.
 - 📫 How to reach me - Links In Bio.
 - 😄 Pronouns: He/Him/They
