@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j4nlksh - Lakshya.
+- 👋 Hi, I’m zyron(ziron).
 - 👀 I’m interested in Rust, Blockchain/Web3 & AI - looking forward for ML.
 - 🌱 I’m currently learning Blockchain - Ethereum/Solana - Learning Smart Contracts & DSA as well in Cpp & Javascript.
 - 💞️ I’m looking to collaborate with Fellow Dev's Who Have some experience in this Field.
