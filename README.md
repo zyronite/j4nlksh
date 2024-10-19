@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Blockchain - Ethereum/Solana - Learning Smart Contracts & DSA as well in Cpp & Javascript.
 - 💞️ I’m looking to collaborate with Fellow Dev's Who Have some experience in this Field.
 - 📫 How to reach me - Links In Bio & You can use X too.
-- ⚡ Fun fact: Gonna Take OFF! Sooonnn...
+- ⚡ Fun fact: Gonna Take OFF! Sooonnn....
 
 [![An image of @j4nlksh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j4nlksh)](https://holopin.io/@j4nlksh)
 
