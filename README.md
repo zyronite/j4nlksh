@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Blockchain/Web3 & AI - looking forward for ML.
 - 🌱 I’m currently learning Blockchain - Ethereum/Solana - Learning Smart Contracts & DSA as well in Cpp & Javascript.
 - 💞️ I’m looking to collaborate with Fellow Dev's Who Have some experience in this Field.
-- 📫 How to reach me - Links In Bio & You can use X too.
+- 📫 How to reach me - Links In Bio & You can use X too and Stalked over the code.
 - ⚡ Fun fact: Gonna Take OFF! Sooonnn....
 
 [![An image of @j4nlksh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j4nlksh)](https://holopin.io/@j4nlksh)
